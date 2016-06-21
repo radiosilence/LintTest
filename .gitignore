@@ -1,0 +1,14 @@
+*.tar*
+.idea
+dist
+.DS_Store
+*.log
+*.codekit
+*.iml
+.render-cache
+node_modules
+img/content
+*.desc
+build
+coverage
+config/local.json
