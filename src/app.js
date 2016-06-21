@@ -6,4 +6,6 @@ app.get('/', (req, res) => {
   res.send('OK');
 });
 
+// const x = {bad: 'dict'};
+
 export default app;
