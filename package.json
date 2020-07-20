@@ -10,7 +10,7 @@
   "author": "radiosilence",
   "license": "UNLICENSED",
   "devDependencies": {
-    "babel-eslint": "^6.0.5",
+    "babel-eslint": "^9.0.0",
     "babel-plugin-rewire": "^1.0.0-rc-3",
     "babel-template": "^6.9.0",
     "babel-types": "^6.10.2",
