@@ -14,7 +14,7 @@
     "babel-plugin-rewire": "^1.0.0-rc-3",
     "babel-template": "^6.9.0",
     "babel-types": "^6.10.2",
-    "chai": "^3.5.0",
+    "chai": "^4.3.4",
     "eslint": "^2.13.1",
     "eslint-config-airbnb": "~9.0.1",
     "eslint-plugin-jsx-a11y": "^1.5.3",
